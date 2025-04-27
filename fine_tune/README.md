@@ -28,9 +28,9 @@ chezz/
 
 ## Dataset
 
-Both training splits live in a single Kaggle dataset:
+Both training splits live in a single HuggingFace dataset:
 
-<https://www.kaggle.com/datasets/ducklin404/chezz-dataset>
+<https://huggingface.co/datasets/ducklin404/chezz_dataset/tree/main>
 
 | File in Kaggle     | Used in phase | Rows | Columns |
 |--------------------|---------------|------|------------------------------------------------|
