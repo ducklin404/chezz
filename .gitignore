@@ -1,0 +1,8 @@
+/stockfish
+/venv
+/__pycache__
+LumbrasGigaBase 2024.pgn
+/book.lmdb
+book.lmdb.7z
+stockfish_moves.csv
+final_humor.jsonl

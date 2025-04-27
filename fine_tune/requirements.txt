@@ -1,0 +1,8 @@
+transformers
+peft
+accelerate
+bitsandbytes
+triton
+datasets
+torch
+numpy
